@@ -1,22 +1,10 @@
-# face-recognition
+# Install-dlib
 
-## About
-This a face recognition web-app with login authenticity functionality which can be used to verify users based on faces
-the model is pretrained with the face/image of desired person, only those persons can login into the app
+### If you are installing dlib on <= python 3.6
+Then follow below link for the whl file,
+https://pypi.org/simple/dlib/
 
-## Tech- stack
-python version 3.8
-flask 
-openCV
-numpy
-face_recognition (python package)
+Complete video guide : https://youtu.be/ot6LWpZjTXo
 
-## How to run
-1. pip install openCV
-2. pip install numpy
-3. pip install flask
-4. pip install cmake
-5. pip install dlib
-6. pip install face_recognition
-7. run on terminal command line - python filename.py
-
+### If you are installing dlib on python 3.7 or 3.8
+Then download whl file from this repository and follow below episode to install it - https://youtu.be/AUJKdehF2ZA
