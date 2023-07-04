@@ -8,3 +8,11 @@ Complete video guide : https://youtu.be/ot6LWpZjTXo
 
 ### If you are installing dlib on python 3.7 or 3.8
 Then download whl file from this repository and follow below episode to install it - https://youtu.be/AUJKdehF2ZA
+
+### pip install panda
+### pip install opencv-python
+### pip install flask
+### pip install numpy
+### pip installcmake
+### pip install dlib
+### pip install face_recognition
